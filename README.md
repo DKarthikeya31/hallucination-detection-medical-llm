@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="docs/demo.gif" width="700"/>
+</div>
 # hallucination-detection-medical-llm
 
 Catches unsupported or fabricated claims in LLM-generated medical text before they reach a clinician or patient.
