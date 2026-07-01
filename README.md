@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="docs/demo.gif" width="700"/>
-</div>
-# hallucination-detection-medical-llm
 
-Catches unsupported or fabricated claims in LLM-generated medical text before they reach a clinician or patient.
+# hallucination-detection-medical-llm
+### Catches unsupported or fabricated claims in LLM-generated medical text before they reach a clinician or patient.
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![Tests](https://img.shields.io/badge/coverage-XX%25-yellow)]()
 
+</div>
 <!--
 Badge notes:
 - Swap the coverage number for your real number from pytest-cov / coverage.py, don't leave XX%.
