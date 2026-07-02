@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # hallucination-detection-medical-llm
 ### Catches unsupported or fabricated claims in LLM-generated medical text before they reach a clinician or patient.
